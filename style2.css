@@ -107,7 +107,9 @@ img{
 .teamcard img{
     max-width: 100%;
 }
-
+.teamCard h6{
+    color: black;
+}
 h6{
     font-family: 'Noto Sans JP', sans-serif;
     color: rgb(153 0 51);
