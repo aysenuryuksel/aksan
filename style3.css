@@ -137,10 +137,7 @@ list-style: none;
 .son a{
     color: white;
 }
-/* .card3{
-    width: 100%;
-    object-fit: cover;
-} */
+
 @media screen and (max-width: 800px) {
     div.hizmet{
       display: none;
