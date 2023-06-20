@@ -21,8 +21,10 @@ img{
 .nav-link{
     color: white;
 }
-
-
+.kariyer:hover{
+    background-color: #990033;
+    border-radius: 10px;
+} 
 
 .collapse-menu2 li a{
     color: #fff;
@@ -170,5 +172,8 @@ list-style: none;
     }
     .sectionparent{
         text-align: center;
+    }
+    .teamcard img{
+        width: 100%;
     }
   }

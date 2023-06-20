@@ -147,4 +147,7 @@ list-style: none;
     .sectionparent{
         text-align: center;
     }
+    .cardsection{
+        width: 95%;
+    }
   }
